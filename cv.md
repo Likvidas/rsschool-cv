@@ -3,6 +3,7 @@
 1. **Name:** Sergey Ryzhenkov
 2. **Contact info:**
    Mail: bobento@yandex.ru;
+   Telegram: @likvidas;
    Phone Number: +7-920-020-52-82;
 3. **Self-presentation:**
    My main goal is to become a frontend developer.
