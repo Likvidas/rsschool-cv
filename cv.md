@@ -34,3 +34,15 @@
    console.log(count());
    console.log(someCount());
    ```
+
+6. **My experience:**
+   [HTML Academy](https://htmlacademy.ru/profile/id1361487),
+   [GitHub](https://github.com/Likvidas)
+
+7. **My Education:**
+   I'm new to Web programming.
+   Everything I know, I learned from lessons on Youtube as well as from open tutorials.
+
+8. **My English:**
+   My English level is weak.
+   But I am ready to learn and want to learn English, since it is already a world language and it is impossible to program without it.
