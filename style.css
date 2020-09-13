@@ -1,8 +1,40 @@
 * {
   box-sizing: border-box;
+  text-decoration: none;
 }
 
 .container {
   max-width: 1024px;
   font-family: "Arial", sans-serif;
+}
+
+.avatar {
+  width: 330px;
+  vertical-align: top;
+  margin-top: 70px;
+}
+
+.main-list {
+  display: inline-block;
+  max-width: 650px;
+}
+
+.header-title {
+  text-align: center;
+}
+
+.main-header {
+  text-align: center;
+}
+
+.list__item {
+  margin: 30px 15px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+ul li {
+  margin: 10px 10px;
 }
